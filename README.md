@@ -62,8 +62,3 @@ Usei `Math.random()` combinado com `Math.floor()` para gerar um número inteiro 
 ### 13. Gerar número inteiro entre 1 e 1000
 Usei `Math.random()` combinado com `Math.floor()` para gerar um número inteiro entre 1 e 1000 e exibi-lo no console.
 
-## Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
