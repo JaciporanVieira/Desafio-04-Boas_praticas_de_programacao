@@ -1,64 +1,103 @@
-# Desafios em JavaScript
+# 🚀 Desafios em JavaScript  
 
-Este repositório contém a minha solução para um conjunto de desafios básicos de JavaScript. O objetivo foi praticar conceitos fundamentais da linguagem, como entrada e saída de dados, operadores matemáticos, estruturas de controle e geração de números aleatórios.
+🎉 Bem-vindo(a)! Aqui você encontrará minha solução para um conjunto de **desafios básicos de JavaScript**. Esses desafios me ajudaram a praticar conceitos fundamentais da linguagem enquanto me divertia aprendendo! 😄  
 
-## Desafios
+---
 
-### 1. Mensagem de boas-vindas
-Criei um programa que utiliza o `console.log` para exibir uma mensagem de boas-vindas no console do navegador.
+## 📝 Sobre os Desafios  
 
-### 2. Saudação personalizada no console
-Criei uma variável chamada `nome` e atribuí a ela o meu nome. Em seguida, utilizei o `console.log` para exibir a mensagem:  
-**"Olá, [meu nome]!"**
+Estes desafios cobrem tópicos como:  
+✔️ Entrada e saída de dados com `prompt` e `alert`  
+✔️ Operadores matemáticos para soma, subtração, etc.  
+✔️ Estruturas de controle, como `if/else`  
+✔️ Geração de números aleatórios com `Math.random()`  
+✔️ Uso de loops como `while`  
 
-### 3. Saudação com `alert`
-Criei uma variável chamada `nome` e atribuí a ela o meu nome. Depois, utilizei o `alert` para exibir a mensagem:  
-**"Olá, [meu nome]!"**
+📚 **Objetivo**: Ganhar prática e consolidar meu aprendizado em JavaScript com desafios simples, mas super importantes para a base de qualquer programador(a).  
 
-### 4. Perguntar a linguagem favorita
+---
+
+## 💻 Lista de Desafios  
+
+### 1. 🌟 Mensagem de boas-vindas  
+Utilizei o `console.log` para exibir uma mensagem de boas-vindas no console do navegador.  
+
+---
+
+### 2. 🖐️ Saudação personalizada no console  
+Criei uma variável chamada `nome` e atribuí meu nome a ela. Depois, usei o `console.log` para exibir:  
+
+---
+
+### 3. 💬 Saudação com alert  
+Com a mesma ideia do desafio anterior, utilizei `alert` para exibir a mensagem:  
+
+---
+
+### 4. ❓ Perguntar a linguagem favorita  
 Utilizei o `prompt` para perguntar ao usuário:  
-**"Qual a linguagem de programação que você mais gosta?"**  
-Armazenei a resposta em uma variável e exibi a mensagem no console.
+A resposta foi exibida no console!  
 
-### 5. Soma de dois valores
-- Criei duas variáveis, `valor1` e `valor2`, e atribuí valores numéricos a elas.
-- Realizei a soma desses dois valores e armazenei o resultado em uma terceira variável chamada `resultado`.
-- Exibi no console:  
-**"A soma de [valor1] e [valor2] é igual a [resultado]."**
+---
 
-### 6. Subtração de dois valores
-- Usando as mesmas variáveis do desafio anterior, realizei a subtração e armazenei o resultado em `resultado`.
-- Exibi no console:  
-**"A diferença entre [valor1] e [valor2] é igual a [resultado]."**
+### 5. ➕ Soma de dois valores  
+Criei duas variáveis, `valor1` e `valor2`, somei os valores e exibi:  
 
-### 7. Verificar maioridade
-- Pedi ao usuário para inserir sua idade usando `prompt`.
-- Verifiquei se o usuário é maior ou menor de idade utilizando uma estrutura `if`.
-- Exibi a mensagem correspondente no console:  
-  - **"Você é maior de idade."**  
-  - **"Você é menor de idade."**
+---
 
-### 8. Verificar se um número é positivo, negativo ou zero
-- Pedi ao usuário para inserir um número usando `prompt`.
-- Usei `if-else` para determinar se o número é positivo, negativo ou zero.
-- Exibi a mensagem correspondente no console.
+### 6. ➖ Subtração de dois valores  
+Reaproveitei as variáveis do desafio anterior para calcular a subtração e exibi:  
 
-### 9. Imprimir números de 1 a 10
-Utilizei um loop `while` para imprimir os números de 1 a 10 no console.
+---
 
-### 10. Verificar aprovação com nota
-- Pedi ao usuário uma nota (valor numérico) usando `prompt`.
-- Verifiquei se a nota é maior ou igual a 7:
-  - **"Aprovado"** para notas maiores ou iguais a 7.  
-  - **"Reprovado"** para notas abaixo de 7.  
-- Exibi o resultado no console.
+### 7. 👨‍⚖️ Verificar maioridade  
+Pedi ao usuário sua idade com `prompt`. Usei `if` para verificar e exibir se ele(a) é maior ou menor de idade:  
+- **Maior de idade**: "Você é maior de idade."  
+- **Menor de idade**: "Você é menor de idade."  
 
-### 11. Gerar número aleatório
-Usei `Math.random()` para gerar um número aleatório entre 0 e 1 e exibi-o no console.
+---
 
-### 12. Gerar número inteiro entre 1 e 10
-Usei `Math.random()` combinado com `Math.floor()` para gerar um número inteiro entre 1 e 10 e exibi-lo no console.
+### 8. ➕➖ Número positivo, negativo ou zero  
+Pedi um número ao usuário e usei `if-else` para verificar se era positivo, negativo ou zero. Exibi a mensagem correspondente no console.  
 
-### 13. Gerar número inteiro entre 1 e 1000
-Usei `Math.random()` combinado com `Math.floor()` para gerar um número inteiro entre 1 e 1000 e exibi-lo no console.
+---
 
+### 9. 🔢 Imprimir números de 1 a 10  
+Utilizei um loop `while` para imprimir os números de 1 a 10 no console.  
+
+---
+
+### 10. ✅ Verificar aprovação com nota  
+Pedi uma nota ao usuário e usei `if` para verificar:  
+- **Aprovado**: Nota maior ou igual a 7.  
+- **Reprovado**: Nota abaixo de 7.  
+O resultado foi exibido no console.  
+
+---
+
+### 11. 🎲 Gerar número aleatório  
+Usei `Math.random()` para gerar um número aleatório entre 0 e 1 e exibi no console.  
+
+---
+
+### 12. 🎯 Gerar número inteiro entre 1 e 10  
+Combinei `Math.random()` com `Math.floor()` para gerar um número inteiro entre 1 e 10.  
+
+---
+
+### 13. 🎰 Gerar número inteiro entre 1 e 1000  
+O mesmo conceito do desafio anterior, mas agora para números entre 1 e 1000!  
+
+---
+
+## 🌟 O que aprendi com esses desafios?  
+1. Como trabalhar com **entradas e saídas de dados** de forma prática.  
+2. Aplicar **operações matemáticas** no JavaScript.  
+3. Estruturar melhor meu código com **condicionais** e **loops**.  
+4. Utilizar funções úteis do JavaScript, como `Math.random()` e `Math.floor()`.  
+
+---
+
+
+> Feito com 💻, ☕ e muita curiosidade!  
+Por mim, [Jaciporan Vieira](https://github.com/JaciporanVieira)  
