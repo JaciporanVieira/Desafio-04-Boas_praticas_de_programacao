@@ -1,4 +1,4 @@
-# 🎮 **Jogo Simples do Número Secreto** 🤖
+# 🎮 **Jogo (Simples) do Número Secreto** 🤖
 
 Bem-vindo ao repositório do **Jogo do Número Secreto**! 🎉
 
